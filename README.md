@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Teamfu](https://teamfu.tech/)
 
-- 🌱 I’m currently learning **Vue.js, AWS cloud practitioning**
+- 🌱 I’m currently learning **Application design, Front End development, Back End development, scripting and DevOps design, AWS cloud practitioning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jackdek11?tab=repositories](https://github.com/jackdek11?tab=repositories)
 
