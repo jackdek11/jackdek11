@@ -250,10 +250,3 @@
     </a>
   </p>
 </div>
-
-In this updated code, I've used Font Awesome icons for HTML and CSS. The <link> tag in the head section links the Font
-Awesome CSS file to your HTML document, enabling you to use the icons in the page content.
-
-For HTML, I've used the <i> tag with the class fab fa-html5 to display the HTML icon, and for CSS, I've used the class
-fab fa-css3-alt to display the CSS icon. You can customize the icon styles using inline CSS to match your design
-preferences.
