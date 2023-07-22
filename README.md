@@ -4,7 +4,6 @@
     flex-direction: column;
     text-align: center;">
   <img alt="Blue screen" src="assets/win-error.gif" style="width: 100%;">
-  <h3>About Me</h3>
   <h3>⚙️ GitHub Analytics</h3>
   <p align="center">
     <a href="https://github.com/jackdek11">
