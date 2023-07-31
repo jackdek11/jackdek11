@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate Back End developer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackdek11" alt="jackdek11" /></a> </p>
-
 - 🔭 I’m currently working on [Teamfu](https://teamfu.tech/)
 
 - 🌱 I’m currently learning **Application design, Front End development, Back End development, Application Architectural design, AWS cloud practitioning**
