@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate Back-End and DevOps engineer from South Africa</h3>
 
-- 🔭 I’m currently working on [Teamfu](https://teamfu.tech/)
+- 🔭 I’m currently working on [repl](https://github.com/jackdek11/repl)
 
 - 🌱 I’m currently learning **Application design, Front End development, Back End development, Application Architectural design, AWS cloud practitioning**
 
